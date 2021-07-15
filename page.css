@@ -1,0 +1,42 @@
+	h1{
+		text-align: center;
+		font-family: arial;
+	}
+	.logindata{
+		margin-left: auto;
+		margin-right: auto;
+		font-family: arial;
+		text-align: center;
+	}
+	.form{
+		border: none;
+		border-bottom: 3px solid black;
+		background: transparent;
+		font-family: arial;
+
+	}
+	body{
+		background-image: url(moroccan-flower.png) ;
+	}
+	.button{
+		border: none;
+		background: black;
+		font-family: arial;
+		color: white;
+		padding: 7px 7px;
+		border-radius: 10px;
+		cursor: pointer;
+		width: 285px;
+
+	}
+	.button:hover{
+		background-color: transparent;
+		color: black;
+		border: 1px solid black;
+	}
+	.registerdata{
+		margin-left: auto;
+		margin-right: auto;
+		font-family: arial;
+		text-align: center;
+	}
